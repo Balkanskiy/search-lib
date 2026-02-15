@@ -20,7 +20,7 @@
     "@babel/core": "^7.10.2",
     "@babel/preset-env": "^7.10.2",
     "@babel/preset-react": "^7.10.1",
-    "@storybook/cli": "^5.3.19",
+    "@storybook/cli": "^10.2.6",
     "@storybook/react": "^5.3.19",
     "cross-env": "^7.0.2",
     "lerna": "^3.22.1",
